@@ -2,4 +2,5 @@
   <Project Path="ConsoleApp1/AbstractApp.csproj" Id="9757eda6-1d8f-4888-a219-8241233c87bf" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="MethodChallenges/MethodChallenges.csproj" Id="825a9556-6f53-4d7c-a7bf-349e2b33f3df" />
+  <Project Path="PrintingApp/PrintingApp.csproj" Id="caebb8ae-22f2-4357-be81-2e399a8fff1c" />
 </Solution>
